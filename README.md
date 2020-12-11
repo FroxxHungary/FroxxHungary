@@ -1,4 +1,4 @@
-### About Me
+### *About Me*
 
 - Hungarian 14 years old passionate developer
 - Fivem server developer (Blaine County RolePlay owner)
@@ -6,7 +6,7 @@
 
 ---
 
-### Programming Languages
+### *Programming Languages*
 <a href="https://github.com/FroxxHungary">
 <img src="https://i.imgur.com/WujoZ6x.png" width="35">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="35">
