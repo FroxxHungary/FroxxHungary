@@ -1,16 +1,19 @@
-### Hi there 👋
+### About Me
 
-<!--
-**FroxxHungary/FroxxHungary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Hungarian 14 years old passionate developer
+- Fivem server developer (Blaine County RolePlay owner)
+- Contact me for private works on discord: Froxx#1642 (Scripts, AntiCheat, etc..)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+<a href="https://github.com/FroxxHungary">
+<img src="https://i.imgur.com/WujoZ6x.png" width="35">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="35">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="35">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="35">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="35">
+
+---
+
+![Profile views](https://gpvc.arturio.dev/FroxxHungary)
