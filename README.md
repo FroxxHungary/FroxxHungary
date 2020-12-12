@@ -13,6 +13,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="35">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="35">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="35">
+  </a>
 
 ---
 
