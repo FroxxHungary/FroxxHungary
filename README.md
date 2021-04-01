@@ -1,8 +1,4 @@
-### *About Me*
-
-- Hungarian 14 years old passionate developer
-- Fivem server developer (Blaine County RolePlay owner)
-- Contact me for private works on discord: Froxx#1642 (Scripts, AntiCheat, etc..)
+## Contact me for private works on discord: Froxx#1642 (Scripts, AntiCheat, etc..)
 
 ---
 
