@@ -1,4 +1,4 @@
-## Contact me for private works on discord: Froxx#1642 (Scripts, AntiCheat, etc..)
+Contact me for private works on discord: Froxx#1642 (Scripts, AntiCheat, etc..)
 
 ---
 
